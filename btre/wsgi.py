@@ -1,5 +1,5 @@
 """
-WSGI config for btre project.
+WSGI config for project1 project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 

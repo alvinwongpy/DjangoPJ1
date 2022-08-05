@@ -1,5 +1,5 @@
 """
-ASGI config for btre project.
+ASGI config for project1 project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
